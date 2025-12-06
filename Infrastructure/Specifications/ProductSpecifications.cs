@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Infrastructure.Specifications
+{
+    public class ProductSpecifications
+    {
+        public int? BrandId { get; set; }
+        public int? TypeId { get; set;}
+
+        public string? Sort  { get; set; }
+
+        public int PageIndex { get; set; } = 1;
+
+        private const int MaxPageSize = 50;
+
+        private int _PageSize=6;
+
+        public int PageSize
+        {
+            get => _PageSize=6; 
+            set  => _PageSize = (value>MaxPageSize)?MaxPageSize:value ; 
+        }
+
+        private string _search;
+
+        public string Search
+        {
+            get => _search; 
+            set => _search = value.Trim().ToLower(); 
+        }
+
+
+
+
+    }
+}
