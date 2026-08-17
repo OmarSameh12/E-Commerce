@@ -32,3 +32,4 @@ C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Services\obj\Debug\net6.
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Services\obj\Debug\net6.0\Services.pdb
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Services\obj\Debug\net6.0\Services.sourcelink.json

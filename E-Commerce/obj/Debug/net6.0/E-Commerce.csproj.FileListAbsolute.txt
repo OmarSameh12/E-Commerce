@@ -173,3 +173,4 @@ C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\E-Commerce\obj\Debug\net
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\E-Commerce\obj\Debug\net6.0\E-Commerce.pdb
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\E-Commerce\obj\Debug\net6.0\E-Commerce.genruntimeconfig.cache
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\E-Commerce\obj\Debug\net6.0\ref\E-Commerce.dll
+C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\E-Commerce\obj\Debug\net6.0\E-Commerce.sourcelink.json

@@ -28,3 +28,4 @@ C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Infrastructure\obj\Debug
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\os509\Downloads\DotNet\Assignment 4\E-Commerce\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
